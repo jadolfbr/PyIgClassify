@@ -1,0 +1,5 @@
+-l /common/madsci/modeling/antibody_databases/PyIgClassify/DBOUT/renumbered_pdbs/PDBLIST_cluster.txt
+-constrain_relax_to_start_coords
+-score:weights orbitals_talaris2013
+-out:path:all /common/madsci/modeling/antibody_databases/PyIgClassify/DBOUT/relaxed_renum_pdbs_orbitals
+#-relax:dualspace

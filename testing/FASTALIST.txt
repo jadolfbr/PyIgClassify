@@ -1,0 +1,2 @@
+testing/combined_test.fasta
+testing/combined_test2.fasta

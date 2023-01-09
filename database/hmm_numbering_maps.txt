@@ -1,0 +1,10 @@
+
+#Renumbering Maps.  
+#Relative_DB_path numbering_scheme chain_type
+
+
+#Modified AHO - Main maps
+renum_maps/ig_vset/modified_aho/ig_heavy.map modified_aho heavy
+renum_maps/ig_vset/modified_aho/ig_lambda.map modified_aho lambda
+renum_maps/ig_vset/modified_aho/ig_kappa.map modified_aho kappa
+renum_maps/ig_vset/modified_aho/ig_lambda6.map modified_aho lambda6

@@ -1,0 +1,5 @@
+#Mapping between HMM file name, type, CutoffScore and CutoffEvalue
+#These Cutoff scores have not been evaluated.  Use with caution.
+
+#Vset:
+hmmer3models/ig_vset_pfam27.hmm ig_vset 22.0 1e-5

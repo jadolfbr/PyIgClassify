@@ -1,0 +1,16 @@
+#Mapping between HMM file name, subfamily type, chainID, gene, CuttoffScore, CuttoffEValue
+
+#AB Chains:
+hmmer3models/ig_heavy.hmm ig_ab H heavy 114.2 8e-13
+hmmer3models/ig_kappa.hmm ig_ab L kappa 119.0 1.2e-22
+hmmer3models/ig_lambda.hmm ig_ab L lambda 128.0 4.7e-23
+hmmer3models/ig_lambda6.hmm ig_ab L lambda6 233.8 .001
+
+#TCR Chains:
+hmmer3models/tcr_alpha3.hmm ig_tcr A alpha 92.0 1.1e-27
+hmmer3models/tcr_beta3.hmm ig_tcr B beta 89.2 5.7e-23
+hmmer3models/tcr_gamma3.hmm ig_tcr G gamma 129.2 1.1e-20
+hmmer3models/tcr_delta3.hmm ig_tcr D delta 126.0 1.4e-22
+
+#Cutoff History:
+#6/22/13: Change score cutoffs to lowest true domains from pdbaa using Roland's results.  Note that these are not final, as some should probably be a bit lower.  This will however, increase stringency manually to the pdb.  We may need to keep manually changing these values like Pfam.  Damn.

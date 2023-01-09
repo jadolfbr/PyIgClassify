@@ -1,0 +1,6 @@
+-l /home/jadolfbr/Documents/modeling/databases/antibody_databases/databases/new/CDR_PDBS_OVERHANG_3/TEST_PDBLIST.txt
+#-inout:dbms:database_name /home/jadolfbr/Documents/modeling/databases/antibody_databases/databases/new/antibody_database_rosetta_design.db
+-inout:dbms:database_name /home/jadolfbr/Documents/modeling/rosetta/Rosetta/main/database/sampling/antibodies/ab_db_for_tests.db
+
+-ignore_unrecognized_res
+-out:use_database

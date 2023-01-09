@@ -1,0 +1,2 @@
+testing/2j882_gz.pdb.gz
+testing/2j88_gz.pdb.gz

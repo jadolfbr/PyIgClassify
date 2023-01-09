@@ -1,0 +1,17 @@
+name: pic1
+channels:
+- defaults
+- bioconda
+- conda-forge
+dependencies:
+- hmmer=3.2.1
+- pandas
+- numpy
+- scikit-learn
+- scipy
+- biopython=1.68
+- weblogo
+- seaborn
+- matplotlib
+- python=2.7
+- sqlite
